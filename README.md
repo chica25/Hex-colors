@@ -9,4 +9,4 @@ Stacks: JS, HTML and CSS
 
 ![js-hex-color-recording-082722_AdobeExpress](https://user-images.githubusercontent.com/58239575/187017772-2ed44b1d-85e0-448c-a35d-9e41f361e3b2.gif)
 
-#frontend #javascript #accessibility
+
